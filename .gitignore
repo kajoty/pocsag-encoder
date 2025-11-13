@@ -1,1 +1,2 @@
-pocsag
+pocsag  # Ignoriert die kompilierte Binärdatei
+*.dat   # Ignoriert alle pocsag_dump.dat oder ähnliche Dateien
